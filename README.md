@@ -30,5 +30,9 @@ Ejemplo de repositorio del curso de código fuente avanzado
 
  # Contribuidores
  Verónica Rámirez Jáuregui
+<<<<<<< HEAD
 Victor Altamirano
  ***Instructor:*** Ricardo Lopez
+=======
+Claudia E García
+>>>>>>> origin/feature-claudia
