@@ -20,9 +20,10 @@ Ejemplo de repositorio del curso de código fuente avanzado
  cur1 http://localhost:8080
  
  #[Referencia]
-  ```python
-   s = "Python syntax highlighting"
-    print s
-``` 
+```java
+   public static void main(){
+       System.out.println("Code Starts here");
+   }
+ ``` 
  # Contribuidores
  Verónica Rámirez Jáuregui
