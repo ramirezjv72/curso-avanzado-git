@@ -27,3 +27,4 @@ Ejemplo de repositorio del curso de código fuente avanzado
  ``` 
  # Contribuidores
  Verónica Rámirez Jáuregui
+Claudia E García
