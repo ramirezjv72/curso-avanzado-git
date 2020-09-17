@@ -19,5 +19,10 @@ Ejemplo de repositorio del curso de código fuente avanzado
  - http://localhost:8080/api/index.html
  cur1 http://localhost:8080
  
+ #[Referencia]
+  ```python
+   s = "Python syntax highlighting"
+    print s
+``` 
  # Contribuidores
  Verónica Rámirez Jáuregui
