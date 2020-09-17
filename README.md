@@ -25,6 +25,14 @@ Ejemplo de repositorio del curso de código fuente avanzado
        System.out.println("Code Starts here");
    }
  ``` 
+
+
+
  # Contribuidores
  Verónica Rámirez Jáuregui
+<<<<<<< HEAD
 Victor Altamirano
+ ***Instructor:*** Ricardo Lopez
+=======
+Claudia E García
+>>>>>>> origin/feature-claudia
